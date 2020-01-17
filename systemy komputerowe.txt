@@ -6,4 +6,4 @@ Jest on nadal najlepszym systemem dla graczy.
 
 2. Ubuntu
 Jest to system operacyjny z rodziny Linux (Unix).
-Ubuntu jest systemem stabilniejszym ni¿ Widnows.
+Ubuntu jest systemem stabilniejszym ni¿ Widnows jest on jednak dalej mniej popularny.
