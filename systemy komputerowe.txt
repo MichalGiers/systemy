@@ -4,3 +4,5 @@ SYSTEMY KOMPUTEROWE
 To popularny system operacyjny. Przedostatnia wersja. 
 Jest on nadal najlepszym systemem dla graczy.
 
+2. Ubuntu
+Jest to system operacyjny z rodziny Linux (Unix) ...
