@@ -8,3 +8,5 @@ Jest on nadal najlepszym systemem dla graczy i otrzymuje dalej wsparcie.
 Jest to system operacyjny z rodziny Linux (Unix).
 Ubuntu jest systemem stabilniejszym ni¿ Widnows jest on jednak dalej mniej popularny.
 Ubuntu jeste tak¿e systemem bezpieczniejszym, mniej nara¿onym na ataki hakerów.
+
+3. MacOs
