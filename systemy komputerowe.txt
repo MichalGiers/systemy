@@ -9,9 +9,13 @@ Jest to system operacyjny z rodziny Linux (Unix).
 Ubuntu jest systemem stabilniejszym ni¿ Widnows jest on jednak dalej mniej popularny.
 Ubuntu jeste tak¿e systemem bezpieczniejszym, mniej nara¿onym na ataki hakerów.
 
-4. Windows 10
+3. MacOs
+MacOs jest najlepszym i najpopularniejszym systemem w USA.
+Koniec.
 
+4. Windows 10
 Windows 10 to najnowsza wersja systemu firmy Microsoft.
 
 5. Debian
 Debian jest niezwykle stabilnym systemem.
+
