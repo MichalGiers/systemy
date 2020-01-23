@@ -17,5 +17,5 @@ Koniec.
 Windows 10 to najnowsza wersja systemu firmy Microsoft.
 
 5. Debian
-Debian jest niezwykle stabilnym systemem.
+Debian jest niezwykle stabilnym systesdfsdfmem.
 
