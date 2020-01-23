@@ -12,3 +12,6 @@ Ubuntu jeste tak¿e systemem bezpieczniejszym, mniej nara¿onym na ataki hakerów.
 4. Windows 10
 
 Windows 10 to najnowsza wersja systemu firmy Microsoft.
+
+5. Debian
+Debian jest niezwykle stabilnym systemem.
